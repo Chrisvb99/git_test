@@ -1,3 +1,4 @@
 Hey everybody,
 
 I'm testing out the git stages of working, staged and committed!
+I've added a new line of text :)
